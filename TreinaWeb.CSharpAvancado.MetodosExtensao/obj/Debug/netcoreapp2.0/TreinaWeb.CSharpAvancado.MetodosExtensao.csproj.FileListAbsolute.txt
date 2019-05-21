@@ -1,0 +1,11 @@
+C:\Users\vapo_\Source\Repos\TreinaWeb\TreinaWeb.CSharpAvancado.MetodosExtensao\bin\Debug\netcoreapp2.0\TreinaWeb.CSharpAvancado.MetodosExtensao.deps.json
+C:\Users\vapo_\Source\Repos\TreinaWeb\TreinaWeb.CSharpAvancado.MetodosExtensao\bin\Debug\netcoreapp2.0\TreinaWeb.CSharpAvancado.MetodosExtensao.runtimeconfig.json
+C:\Users\vapo_\Source\Repos\TreinaWeb\TreinaWeb.CSharpAvancado.MetodosExtensao\bin\Debug\netcoreapp2.0\TreinaWeb.CSharpAvancado.MetodosExtensao.runtimeconfig.dev.json
+C:\Users\vapo_\Source\Repos\TreinaWeb\TreinaWeb.CSharpAvancado.MetodosExtensao\bin\Debug\netcoreapp2.0\TreinaWeb.CSharpAvancado.MetodosExtensao.dll
+C:\Users\vapo_\Source\Repos\TreinaWeb\TreinaWeb.CSharpAvancado.MetodosExtensao\bin\Debug\netcoreapp2.0\TreinaWeb.CSharpAvancado.MetodosExtensao.pdb
+C:\Users\vapo_\Source\Repos\TreinaWeb\TreinaWeb.CSharpAvancado.MetodosExtensao\obj\Debug\netcoreapp2.0\TreinaWeb.CSharpAvancado.MetodosExtensao.csprojResolveAssemblyReference.cache
+C:\Users\vapo_\Source\Repos\TreinaWeb\TreinaWeb.CSharpAvancado.MetodosExtensao\obj\Debug\netcoreapp2.0\TreinaWeb.CSharpAvancado.MetodosExtensao.csproj.CoreCompileInputs.cache
+C:\Users\vapo_\Source\Repos\TreinaWeb\TreinaWeb.CSharpAvancado.MetodosExtensao\obj\Debug\netcoreapp2.0\TreinaWeb.CSharpAvancado.MetodosExtensao.AssemblyInfoInputs.cache
+C:\Users\vapo_\Source\Repos\TreinaWeb\TreinaWeb.CSharpAvancado.MetodosExtensao\obj\Debug\netcoreapp2.0\TreinaWeb.CSharpAvancado.MetodosExtensao.AssemblyInfo.cs
+C:\Users\vapo_\Source\Repos\TreinaWeb\TreinaWeb.CSharpAvancado.MetodosExtensao\obj\Debug\netcoreapp2.0\TreinaWeb.CSharpAvancado.MetodosExtensao.dll
+C:\Users\vapo_\Source\Repos\TreinaWeb\TreinaWeb.CSharpAvancado.MetodosExtensao\obj\Debug\netcoreapp2.0\TreinaWeb.CSharpAvancado.MetodosExtensao.pdb

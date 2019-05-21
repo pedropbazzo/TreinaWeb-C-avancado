@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.Rider2017.3/system/resharper-host/local/Transient/ReSharperHost/v11/SolutionCaches/_TreinaWeb.CSharpAvancado.1661888723.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="TreinaWeb.CSharpAvancado.CovarianciaContravariancia" t="IncludeRecursive">
+        <e p="IArmazenador.cs" t="Include" />
+        <e p="IRecuperador.cs" t="Include" />
+        <e p="ManipuladorFTP.cs" t="Include" />
+        <e p="Nivel1.cs" t="Include" />
+        <e p="Nivel2.cs" t="Include" />
+        <e p="Nivel3.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="TreinaWeb.CSharpAvancado.CovarianciaContravariancia.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="TreinaWeb.CSharpAvancado.CovarianciaContravariancia.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="TreinaWeb.CSharpAvancado.DelegatesGenericos" t="IncludeRecursive">
+        <e p="Program.cs" t="Include" />
+        <e p="TreinaWeb.CSharpAvancado.DelegatesGenericos.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="TreinaWeb.CSharpAvancado.DelegatesGenericos.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="TreinaWeb.CSharpAvancado.DelegatesMulticast" t="IncludeRecursive">
+        <e p="Program.cs" t="Include" />
+        <e p="TreinaWeb.CSharpAvancado.DelegatesMulticast.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="TreinaWeb.CSharpAvancado.DelegatesMulticast.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="TreinaWeb.CSharpAvancado.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

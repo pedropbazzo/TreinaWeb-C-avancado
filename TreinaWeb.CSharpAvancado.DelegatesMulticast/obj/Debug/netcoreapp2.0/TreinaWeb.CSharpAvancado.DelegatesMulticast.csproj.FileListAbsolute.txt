@@ -1,0 +1,10 @@
+/home/iury/RiderProjects/TreinaWeb.CSharpAvancado/TreinaWeb.CSharpAvancado.DelegatesMulticast/bin/Debug/netcoreapp2.0/TreinaWeb.CSharpAvancado.DelegatesMulticast.deps.json
+/home/iury/RiderProjects/TreinaWeb.CSharpAvancado/TreinaWeb.CSharpAvancado.DelegatesMulticast/bin/Debug/netcoreapp2.0/TreinaWeb.CSharpAvancado.DelegatesMulticast.runtimeconfig.json
+/home/iury/RiderProjects/TreinaWeb.CSharpAvancado/TreinaWeb.CSharpAvancado.DelegatesMulticast/bin/Debug/netcoreapp2.0/TreinaWeb.CSharpAvancado.DelegatesMulticast.runtimeconfig.dev.json
+/home/iury/RiderProjects/TreinaWeb.CSharpAvancado/TreinaWeb.CSharpAvancado.DelegatesMulticast/bin/Debug/netcoreapp2.0/TreinaWeb.CSharpAvancado.DelegatesMulticast.dll
+/home/iury/RiderProjects/TreinaWeb.CSharpAvancado/TreinaWeb.CSharpAvancado.DelegatesMulticast/bin/Debug/netcoreapp2.0/TreinaWeb.CSharpAvancado.DelegatesMulticast.pdb
+/home/iury/RiderProjects/TreinaWeb.CSharpAvancado/TreinaWeb.CSharpAvancado.DelegatesMulticast/obj/Debug/netcoreapp2.0/TreinaWeb.CSharpAvancado.DelegatesMulticast.csproj.CoreCompileInputs.cache
+/home/iury/RiderProjects/TreinaWeb.CSharpAvancado/TreinaWeb.CSharpAvancado.DelegatesMulticast/obj/Debug/netcoreapp2.0/TreinaWeb.CSharpAvancado.DelegatesMulticast.AssemblyInfoInputs.cache
+/home/iury/RiderProjects/TreinaWeb.CSharpAvancado/TreinaWeb.CSharpAvancado.DelegatesMulticast/obj/Debug/netcoreapp2.0/TreinaWeb.CSharpAvancado.DelegatesMulticast.AssemblyInfo.cs
+/home/iury/RiderProjects/TreinaWeb.CSharpAvancado/TreinaWeb.CSharpAvancado.DelegatesMulticast/obj/Debug/netcoreapp2.0/TreinaWeb.CSharpAvancado.DelegatesMulticast.dll
+/home/iury/RiderProjects/TreinaWeb.CSharpAvancado/TreinaWeb.CSharpAvancado.DelegatesMulticast/obj/Debug/netcoreapp2.0/TreinaWeb.CSharpAvancado.DelegatesMulticast.pdb

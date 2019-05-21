@@ -1,0 +1,43 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/iury/RiderProjects/TreinaWeb.CSharpAvancado/TreinaWeb.CSharpAvancado.DelegatesGenericos/TreinaWeb.CSharpAvancado.DelegatesGenericos.csproj",
+    "projectName": "TreinaWeb.CSharpAvancado.DelegatesGenericos",
+    "projectPath": "/home/iury/RiderProjects/TreinaWeb.CSharpAvancado/TreinaWeb.CSharpAvancado.DelegatesGenericos/TreinaWeb.CSharpAvancado.DelegatesGenericos.csproj",
+    "outputPath": "/home/iury/RiderProjects/TreinaWeb.CSharpAvancado/TreinaWeb.CSharpAvancado.DelegatesGenericos/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

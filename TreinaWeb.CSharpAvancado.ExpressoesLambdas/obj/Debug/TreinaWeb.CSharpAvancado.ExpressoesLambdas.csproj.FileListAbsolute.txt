@@ -1,0 +1,10 @@
+C:\Users\vapo_\Source\Repos\TreinaWeb\TreinaWeb.CSharpAvancado.ExpressoesLambdas\bin\Debug\TreinaWeb.CSharpAvancado.ExpressoesLambdas.exe.config
+C:\Users\vapo_\Source\Repos\TreinaWeb\TreinaWeb.CSharpAvancado.ExpressoesLambdas\bin\Debug\TreinaWeb.CSharpAvancado.ExpressoesLambdas.exe
+C:\Users\vapo_\Source\Repos\TreinaWeb\TreinaWeb.CSharpAvancado.ExpressoesLambdas\bin\Debug\TreinaWeb.CSharpAvancado.ExpressoesLambdas.pdb
+C:\Users\vapo_\Source\Repos\TreinaWeb\TreinaWeb.CSharpAvancado.ExpressoesLambdas\obj\Debug\TreinaWeb.CSharpAvancado.ExpressoesLambdas.csprojResolveAssemblyReference.cache
+C:\Users\vapo_\Source\Repos\TreinaWeb\TreinaWeb.CSharpAvancado.ExpressoesLambdas\obj\Debug\TreinaWeb.CSharpAvancado.ExpressoesLambdas.FrmLambda.resources
+C:\Users\vapo_\Source\Repos\TreinaWeb\TreinaWeb.CSharpAvancado.ExpressoesLambdas\obj\Debug\TreinaWeb.CSharpAvancado.ExpressoesLambdas.Properties.Resources.resources
+C:\Users\vapo_\Source\Repos\TreinaWeb\TreinaWeb.CSharpAvancado.ExpressoesLambdas\obj\Debug\TreinaWeb.CSharpAvancado.ExpressoesLambdas.csproj.GenerateResource.Cache
+C:\Users\vapo_\Source\Repos\TreinaWeb\TreinaWeb.CSharpAvancado.ExpressoesLambdas\obj\Debug\TreinaWeb.CSharpAvancado.ExpressoesLambdas.csproj.CoreCompileInputs.cache
+C:\Users\vapo_\Source\Repos\TreinaWeb\TreinaWeb.CSharpAvancado.ExpressoesLambdas\obj\Debug\TreinaWeb.CSharpAvancado.ExpressoesLambdas.exe
+C:\Users\vapo_\Source\Repos\TreinaWeb\TreinaWeb.CSharpAvancado.ExpressoesLambdas\obj\Debug\TreinaWeb.CSharpAvancado.ExpressoesLambdas.pdb

@@ -1,0 +1,10 @@
+/home/iury/RiderProjects/TreinaWeb.CSharpAvancado/TreinaWeb.CSharpAvancado.CovarianciaContravariancia/bin/Debug/netcoreapp2.0/TreinaWeb.CSharpAvancado.CovarianciaContravariancia.deps.json
+/home/iury/RiderProjects/TreinaWeb.CSharpAvancado/TreinaWeb.CSharpAvancado.CovarianciaContravariancia/bin/Debug/netcoreapp2.0/TreinaWeb.CSharpAvancado.CovarianciaContravariancia.runtimeconfig.json
+/home/iury/RiderProjects/TreinaWeb.CSharpAvancado/TreinaWeb.CSharpAvancado.CovarianciaContravariancia/bin/Debug/netcoreapp2.0/TreinaWeb.CSharpAvancado.CovarianciaContravariancia.runtimeconfig.dev.json
+/home/iury/RiderProjects/TreinaWeb.CSharpAvancado/TreinaWeb.CSharpAvancado.CovarianciaContravariancia/bin/Debug/netcoreapp2.0/TreinaWeb.CSharpAvancado.CovarianciaContravariancia.dll
+/home/iury/RiderProjects/TreinaWeb.CSharpAvancado/TreinaWeb.CSharpAvancado.CovarianciaContravariancia/bin/Debug/netcoreapp2.0/TreinaWeb.CSharpAvancado.CovarianciaContravariancia.pdb
+/home/iury/RiderProjects/TreinaWeb.CSharpAvancado/TreinaWeb.CSharpAvancado.CovarianciaContravariancia/obj/Debug/netcoreapp2.0/TreinaWeb.CSharpAvancado.CovarianciaContravariancia.csproj.CoreCompileInputs.cache
+/home/iury/RiderProjects/TreinaWeb.CSharpAvancado/TreinaWeb.CSharpAvancado.CovarianciaContravariancia/obj/Debug/netcoreapp2.0/TreinaWeb.CSharpAvancado.CovarianciaContravariancia.AssemblyInfoInputs.cache
+/home/iury/RiderProjects/TreinaWeb.CSharpAvancado/TreinaWeb.CSharpAvancado.CovarianciaContravariancia/obj/Debug/netcoreapp2.0/TreinaWeb.CSharpAvancado.CovarianciaContravariancia.AssemblyInfo.cs
+/home/iury/RiderProjects/TreinaWeb.CSharpAvancado/TreinaWeb.CSharpAvancado.CovarianciaContravariancia/obj/Debug/netcoreapp2.0/TreinaWeb.CSharpAvancado.CovarianciaContravariancia.dll
+/home/iury/RiderProjects/TreinaWeb.CSharpAvancado/TreinaWeb.CSharpAvancado.CovarianciaContravariancia/obj/Debug/netcoreapp2.0/TreinaWeb.CSharpAvancado.CovarianciaContravariancia.pdb

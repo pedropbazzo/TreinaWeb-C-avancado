@@ -1,0 +1,10 @@
+C:\Users\vapo_\Source\Repos\TreinaWeb\TreinaWeb.CSharpAvancado.EstudoLINQ\bin\Debug\netcoreapp2.0\TreinaWeb.CSharpAvancado.EstudoLINQ.deps.json
+C:\Users\vapo_\Source\Repos\TreinaWeb\TreinaWeb.CSharpAvancado.EstudoLINQ\bin\Debug\netcoreapp2.0\TreinaWeb.CSharpAvancado.EstudoLINQ.runtimeconfig.json
+C:\Users\vapo_\Source\Repos\TreinaWeb\TreinaWeb.CSharpAvancado.EstudoLINQ\bin\Debug\netcoreapp2.0\TreinaWeb.CSharpAvancado.EstudoLINQ.runtimeconfig.dev.json
+C:\Users\vapo_\Source\Repos\TreinaWeb\TreinaWeb.CSharpAvancado.EstudoLINQ\bin\Debug\netcoreapp2.0\TreinaWeb.CSharpAvancado.EstudoLINQ.dll
+C:\Users\vapo_\Source\Repos\TreinaWeb\TreinaWeb.CSharpAvancado.EstudoLINQ\bin\Debug\netcoreapp2.0\TreinaWeb.CSharpAvancado.EstudoLINQ.pdb
+C:\Users\vapo_\Source\Repos\TreinaWeb\TreinaWeb.CSharpAvancado.EstudoLINQ\obj\Debug\netcoreapp2.0\TreinaWeb.CSharpAvancado.EstudoLINQ.csproj.CoreCompileInputs.cache
+C:\Users\vapo_\Source\Repos\TreinaWeb\TreinaWeb.CSharpAvancado.EstudoLINQ\obj\Debug\netcoreapp2.0\TreinaWeb.CSharpAvancado.EstudoLINQ.AssemblyInfoInputs.cache
+C:\Users\vapo_\Source\Repos\TreinaWeb\TreinaWeb.CSharpAvancado.EstudoLINQ\obj\Debug\netcoreapp2.0\TreinaWeb.CSharpAvancado.EstudoLINQ.AssemblyInfo.cs
+C:\Users\vapo_\Source\Repos\TreinaWeb\TreinaWeb.CSharpAvancado.EstudoLINQ\obj\Debug\netcoreapp2.0\TreinaWeb.CSharpAvancado.EstudoLINQ.dll
+C:\Users\vapo_\Source\Repos\TreinaWeb\TreinaWeb.CSharpAvancado.EstudoLINQ\obj\Debug\netcoreapp2.0\TreinaWeb.CSharpAvancado.EstudoLINQ.pdb

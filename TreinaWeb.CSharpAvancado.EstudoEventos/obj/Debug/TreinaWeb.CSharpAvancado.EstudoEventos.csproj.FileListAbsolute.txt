@@ -1,0 +1,10 @@
+C:\Users\vapo_\Source\Repos\TreinaWeb\TreinaWeb.CSharpAvancado.EstudoEventos\bin\Debug\TreinaWeb.CSharpAvancado.EstudoEventos.exe.config
+C:\Users\vapo_\Source\Repos\TreinaWeb\TreinaWeb.CSharpAvancado.EstudoEventos\bin\Debug\TreinaWeb.CSharpAvancado.EstudoEventos.exe
+C:\Users\vapo_\Source\Repos\TreinaWeb\TreinaWeb.CSharpAvancado.EstudoEventos\bin\Debug\TreinaWeb.CSharpAvancado.EstudoEventos.pdb
+C:\Users\vapo_\Source\Repos\TreinaWeb\TreinaWeb.CSharpAvancado.EstudoEventos\obj\Debug\TreinaWeb.CSharpAvancado.EstudoEventos.FrmGerenciadorLatidosCachorros.resources
+C:\Users\vapo_\Source\Repos\TreinaWeb\TreinaWeb.CSharpAvancado.EstudoEventos\obj\Debug\TreinaWeb.CSharpAvancado.EstudoEventos.Properties.Resources.resources
+C:\Users\vapo_\Source\Repos\TreinaWeb\TreinaWeb.CSharpAvancado.EstudoEventos\obj\Debug\TreinaWeb.CSharpAvancado.EstudoEventos.csproj.GenerateResource.Cache
+C:\Users\vapo_\Source\Repos\TreinaWeb\TreinaWeb.CSharpAvancado.EstudoEventos\obj\Debug\TreinaWeb.CSharpAvancado.EstudoEventos.csproj.CoreCompileInputs.cache
+C:\Users\vapo_\Source\Repos\TreinaWeb\TreinaWeb.CSharpAvancado.EstudoEventos\obj\Debug\TreinaWeb.CSharpAvancado.EstudoEventos.exe
+C:\Users\vapo_\Source\Repos\TreinaWeb\TreinaWeb.CSharpAvancado.EstudoEventos\obj\Debug\TreinaWeb.CSharpAvancado.EstudoEventos.pdb
+C:\Users\vapo_\Source\Repos\TreinaWeb\TreinaWeb.CSharpAvancado.EstudoEventos\obj\Debug\TreinaWeb.CSharpAvancado.EstudoEventos.csprojResolveAssemblyReference.cache
